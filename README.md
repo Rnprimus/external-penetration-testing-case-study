@@ -44,3 +44,15 @@ The penetration test followed a structured and ethical assessment workflow align
 4. **Reporting**  
    Documentation of findings, risk severity, and mitigation recommendations in a clear and professional format.
 
+## Key Findings
+
+The assessment identified multiple high-risk security issues affecting the external perimeter and internal access controls:
+
+- Exposure of insecure legacy remote access services on the external network perimeter
+- Use of weak or outdated password hashing mechanisms on internal systems
+- Reuse of administrative credentials across multiple systems
+- Remote administrative services exposed without sufficient access restrictions
+
+While each issue individually increased risk, their combined presence enabled an attacker to progress from initial external access to full internal system compromise.
+
+
