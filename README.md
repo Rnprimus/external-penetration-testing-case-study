@@ -27,4 +27,20 @@ Testing identified multiple high-risk security weaknesses that, when combined, a
 - All systems were authorized for testing
 - The environment was intentionally vulnerable for educational purposes
 - Findings reflect common real-world misconfigurations
+  
+## Methodology
+
+The penetration test followed a structured and ethical assessment workflow aligned with industry-standard practices:
+
+1. **Reconnaissance**  
+   Identification of externally exposed services and potential entry points from an attacker’s perspective.
+
+2. **Enumeration**  
+   Validation of service configurations, authentication mechanisms, and exposure levels.
+
+3. **Exploitation Validation**  
+   Controlled confirmation that identified weaknesses could be leveraged to obtain unauthorized access, without causing disruption.
+
+4. **Reporting**  
+   Documentation of findings, risk severity, and mitigation recommendations in a clear and professional format.
 
