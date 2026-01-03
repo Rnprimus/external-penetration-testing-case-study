@@ -61,3 +61,14 @@ Findings were evaluated using a qualitative risk model based on the likelihood o
 
 The assessment demonstrates how seemingly isolated security weaknesses can combine to significantly increase organizational risk when left unaddressed.
 
+## Recommendations
+
+To reduce the risk identified during the assessment, the following remediation steps are recommended:
+
+- Disable insecure legacy remote access services and replace them with encrypted, supported alternatives
+- Enforce modern password hashing algorithms and secure credential storage practices
+- Require unique administrative credentials for each system and role
+- Restrict remote administrative access through network segmentation, VPNs, and multi-factor authentication
+- Conduct regular audits of externally exposed services to identify and remediate new risks
+
+
