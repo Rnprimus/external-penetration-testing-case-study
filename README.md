@@ -55,4 +55,9 @@ The assessment identified multiple high-risk security issues affecting the exter
 
 While each issue individually increased risk, their combined presence enabled an attacker to progress from initial external access to full internal system compromise.
 
+## Risk Assessment
+
+Findings were evaluated using a qualitative risk model based on the likelihood of exploitation and the potential business impact. Multiple issues were assessed as **High Risk** due to the ease of exploitation and the severity of potential outcomes, including loss of system confidentiality, integrity, and availability.
+
+The assessment demonstrates how seemingly isolated security weaknesses can combine to significantly increase organizational risk when left unaddressed.
 
