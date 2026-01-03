@@ -73,9 +73,9 @@ To reduce the risk identified during the assessment, the following remediation s
 
 ## Skills Demonstrated
 
-- External network reconnaissance
-- Vulnerability identification and qualitative risk analysis
-- Penetration-testing methodology and ethical scoping
-- Security assessment documentation and reporting
-- Defensive security recommendations and risk mitigation
+- External network reconnaissance and attack surface analysis
+- Vulnerability identification and qualitative risk assessment
+- Ethical penetration-testing methodology and scoped assessments
+- Professional security reporting and documentation
+- Risk-based remediation and defensive security recommendations
 
