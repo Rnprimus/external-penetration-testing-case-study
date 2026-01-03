@@ -71,4 +71,11 @@ To reduce the risk identified during the assessment, the following remediation s
 - Restrict remote administrative access through network segmentation, VPNs, and multi-factor authentication
 - Conduct regular audits of externally exposed services to identify and remediate new risks
 
+## Skills Demonstrated
+
+- External network reconnaissance
+- Vulnerability identification and qualitative risk analysis
+- Penetration-testing methodology and ethical scoping
+- Security assessment documentation and reporting
+- Defensive security recommendations and risk mitigation
 
